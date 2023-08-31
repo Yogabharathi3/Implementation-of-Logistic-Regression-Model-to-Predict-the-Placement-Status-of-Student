@@ -27,21 +27,22 @@ End the program.
 
 ## Program:
 
-/*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-
+/*
 Developed by:YOGABHARATHI S  
 RegisterNumber:212222230179  
 */
 ```
 import pandas as pd
-
 data = pd.read_csv("Placement_Data.csv")
 data.head()
+
 data1 = data.copy()
 data1 = data1.drop(["sl_no","salary"],axis = 1)
 data1.head()
+
 data1.isnull().sum()
+
 data1.duplicated().sum()
 
 from sklearn.preprocessing import LabelEncoder
@@ -59,6 +60,7 @@ data1
 
 x = data1.iloc[:,:-1]
 x
+
 y = data1["status"]
 y
 
