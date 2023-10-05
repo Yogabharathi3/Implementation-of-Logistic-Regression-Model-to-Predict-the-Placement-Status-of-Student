@@ -92,34 +92,39 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 ## Output:
 # HEAD OF THE DATA :
-![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/b4e7913f-e49e-4c66-8c1d-77879d8cae1d)
+![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/6ce7e0b0-8f6a-4ff8-b65c-b4c86e1701c5)
 
 # COPY HEAD OF THE DATA :
-![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/74bca33d-99dd-4a38-9254-480e94022eea)
+![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/fd14ef98-ca02-4971-9bd4-5d57b0ef3b4d)
 
 # NULL AND SUM :
-![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/6c4eb879-c0bb-43d8-aa59-06fbd2479e77)
+![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/59676f83-b804-411a-87e7-25f83ae796d2)
 
 # DUPLICATED :
-![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/6aff512a-e6b3-4deb-b740-dde7aab67745)
+![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/e4be843f-0f1b-43cf-a990-a1c57e981245)
 
 # X VALUE :
-![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/22995262-8589-48e3-b7a4-633979dcaabb)
+![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/a815f9ef-1e3f-4fbc-a8e8-d220e5e20f74)
+
 
 # Y VALUE :
-![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/f3fa0ed6-e76a-40e2-8b08-03c2f0b62e89)
+![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/5b4617cb-f596-4027-b4ca-86a04716c7db)
+
 
 # PREDICTED VALUES :
-![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/cdbd19cf-eba7-43b5-b886-60582b949b99)
+![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/96c43a4d-30b8-4fd3-8d86-5494235375db)
+
 
 # ACCURACY :
-![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/3c2cd284-8581-4f2f-857a-d64bdd136f2e)
+![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/4c057d40-d639-4d9f-8876-7f8a56452eeb)
+
 
 # CONFUSION MATRIX :
-![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/eedc2fc7-4019-4343-a877-b6f3865a9424)
+![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/2648598a-f8a2-4816-a33d-93294112a208)
+
 
 # CLASSIFICATION REPORT :
-![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/16f224ee-e1fc-44c5-a0e9-e03edfe873a4)
+![image](https://github.com/Yogabharathi3/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118899387/81a3fd6a-294f-4aed-9c4e-e4185d251438)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
